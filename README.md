@@ -6,9 +6,9 @@
 <p align="center">
     <a href="https://github.com/ULTRAPAIN"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/forks"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/graphs/contributors"><img src="https://img.shields.io/github/contributors/ULTRAPAIN/ULTRAPAIN?color=blue"></a>
+    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/stargazers"><img src="https://img.shields.io/github/stars/ULTRAPAIN/ULTRAPAIN.svg?logo=github"></a>
+    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/forks"><img src="https://img.shields.io/github/forks/ULTRAPAIN/ULTRAPAIN.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ULTRAPAIN.ULTRAPAIN" alt="visitors"/>   
 </p>
 
